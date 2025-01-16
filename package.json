@@ -1,0 +1,11 @@
+{
+  "scripts": {
+  },
+  "devDependencies": {
+  },
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "type": "module"
+}

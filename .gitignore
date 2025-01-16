@@ -1,7 +1,15 @@
 *
 
 !/*.code-workspace
+!/*.json
 !/*.md
 !/.editorconfig
 !/.gitattributes
 !/.gitignore
+!/.npmrc
+
+!packages/
+!packages/**/
+!packages/**/*
+
+node_modules/

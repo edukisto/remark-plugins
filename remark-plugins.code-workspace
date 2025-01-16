@@ -17,6 +17,8 @@
       80
     ],
     "editor.wordWrap": "on",
-    "editorconfig.generateAuto": false
+    "editorconfig.generateAuto": false,
+    "javascript.preferences.importModuleSpecifierEnding": "js",
+    "javascript.preferences.quoteStyle": "single"
   }
 }
